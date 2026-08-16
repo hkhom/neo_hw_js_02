@@ -1,1 +1,1 @@
-# goit-js-hw-02
+# this is JS Fundamentals course homework #2 
