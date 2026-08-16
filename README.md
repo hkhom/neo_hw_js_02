@@ -1,1 +1,1 @@
-# this is JS Fundamentals course homework #2 
+# JS Fundamentals course homework #2 
